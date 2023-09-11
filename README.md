@@ -17,4 +17,4 @@ Dado que esta atividade é centrada em um jogo com uma temática educacional e c
 
 - E caso perca, será essa:
 
-![](https://i.imgur.com/wEaxH9g.png)
+![](https://i.imgur.com/xf6FEjd.png)
